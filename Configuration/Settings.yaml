@@ -1,4 +1,4 @@
-NeosRulez:
-  Flow:
-    SlackClient:
-      webhookUrl: 'https://hooks.slack.com/services/C12ED064T/B31MFB2MY14/xzXH5Bz0uaV5CqdW4s0y1F4j'
+#NeosRulez:
+#  Flow:
+#    SlackClient:
+#      webhookUrl: 'https://hooks.slack.com/services/C12ED064T/B31MFB2MY14/xzXH5Bz0uaV5CqdW4s0y1F4j'
