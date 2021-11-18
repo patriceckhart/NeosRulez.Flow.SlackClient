@@ -1,0 +1,18 @@
+{
+    "description": "A slack client package for Neos and Flow.",
+    "type": "neos-package",
+    "name": "neosrulez/flow-slackclient",
+    "require": {
+        "neos/flow": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "NeosRulez\\Flow\\SlackClient\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "NeosRulez.Flow.SlackClient"
+        }
+    }
+}
